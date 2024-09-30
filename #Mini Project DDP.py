@@ -1,9 +1,13 @@
-#Menginput Biodata
+print("Program Menghitung Total Pembeliaan")
+
+#Menginput Login Member
+Member = "IndoApril"
 Nama = "Khairunisa Aprilia"
 NIM = "2409116060"
 Kelas = "B"
 
-#Menampilkan Biodata
+#Menampilkan Login Member
+print(Member)
 print(Nama)
 print(NIM)
 print(Kelas)
