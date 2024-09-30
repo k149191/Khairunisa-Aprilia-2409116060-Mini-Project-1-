@@ -47,5 +47,8 @@ while True:
 ![Screenshot 2024-10-01 061537](https://github.com/user-attachments/assets/fe04e78f-2095-428c-a7b3-d7eaf31a554a)
 
 
+![Screenshot 2024-10-01 061820](https://github.com/user-attachments/assets/1cf5f95b-af35-4f72-b579-002b7bc217cf)
+
+
 
   
