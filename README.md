@@ -2,6 +2,7 @@
 ![mini project drawio (1)](https://github.com/user-attachments/assets/245b362a-4a9d-4d7b-a636-e37843a2abf8)
 
 PENJELASAN = Baris 1 sebagai judul program
+
 ![Screenshot 2024-10-01 101324](https://github.com/user-attachments/assets/486ff980-1a08-4719-a0c5-f56e0972b55d)
 
 PENJELASAN = Baris 3-9 sebagai ucapan selamat datang dan login member mahasiswa
