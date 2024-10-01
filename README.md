@@ -32,6 +32,31 @@ OUTPUT PADA TERMINAL
 ![Screenshot 2024-10-01 101155](https://github.com/user-attachments/assets/c9b09284-a02e-42e6-9292-54f04bfa276e)
 
 
+PENJELASAN OUTPUT = MEMUNCULKAN LOGIN
+
+![Screenshot 2024-10-01 104021](https://github.com/user-attachments/assets/fd2b63d0-6335-4300-86d8-af32d7b7903d)
+
+
+PENJELASAN OUTPUT = MEMUNCULKAN JUMLAH BARANG, HARGA BARANG & TOTAL HARGA SEBELUM DI DISKON APABILA MENDAPAT DISKON
+
+![Screenshot 2024-10-01 104041](https://github.com/user-attachments/assets/4ac940ef-634d-407f-ae53-eeaa6d12b427)
+
+
+PENJELASAN OUTPUT = MEMUNCULKAN TOTAL HARGA YANG TELAH DI DISKON APABILA MENDAPAT DISKON
+
+![Screenshot 2024-10-01 104102](https://github.com/user-attachments/assets/aff50799-e62d-4476-a42f-25075512d04f)
+
+
+PENJELASAAN OUTPUT = MEMUNCULKAN PENGULANGAN APABILA INGIN MENGHITUNG KEMBALI TOTAL HARGA, JIKA TIDAK MAKA AKAN MUNCUL KALIMAT "Terima kasih telah berbelanja di sini"
+
+![Screenshot 2024-10-01 104122](https://github.com/user-attachments/assets/2b66b602-2eef-4cb2-aeed-c2205bdd51dc)
+
+
+PENJELASAAN OUTPUT = MEMUNCULKAN TOTAL HARGA YANG TIDAK MENDAPATKAN DISKON
+
+![Screenshot 2024-10-01 104652](https://github.com/user-attachments/assets/3bc1c541-fbb9-4d7b-a46c-ea646bbb733e)
+
+
 KESELURUHAN CODE & SAAT DI RUN
 
 ![Screenshot 2024-10-01 101143](https://github.com/user-attachments/assets/d10fc315-02c3-4426-bd11-bd7bd49171d9)
