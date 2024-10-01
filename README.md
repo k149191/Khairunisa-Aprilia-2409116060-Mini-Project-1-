@@ -1,54 +1,24 @@
-![mini project drawio](https://github.com/user-attachments/assets/326707e8-3004-4aab-bd91-5df310849afd)
+
+![mini project drawio (1)](https://github.com/user-attachments/assets/245b362a-4a9d-4d7b-a636-e37843a2abf8)
 
 PENJELASAN = Baris 1 sebagai judul program
-print("Program Menghitung Total Pembeliaan")
-PENJELASAN = Baris 3-13 Melakukan Login Member 
-#Menginput Login Member 
-Member = "IndoApril"
-Nama = "Khairunisa Aprilia"
-NIM = "2409116060"
-Kelas = "B"
+![Screenshot 2024-10-01 101324](https://github.com/user-attachments/assets/486ff980-1a08-4719-a0c5-f56e0972b55d)
 
-#Menampilkan Login Member
-print(Member)
-print(Nama)
-print(NIM)
-print(Kelas)
-PENJELASAN = BARIS 15-25 Menghitung total harga barang berdasarkan harga barang dan jumlah pembelian 
-#menghitung total harga barang berdasarkan harga barang dan jumlah pembelian 
+PENJELASAN = Baris 3-9 sebagai ucapan selamat datang dan login member mahasiswa
+![Screenshot 2024-10-01 101348](https://github.com/user-attachments/assets/389d81e2-c29f-4197-b47f-dda22c069dae)
 
-#Menginput harga barang dan jumlah pembelian
-harga =int(input("masukkan harga barang: Rp. "))
-jumlah = float(input("masukkan jumlahh pembelian: "))
+PENJELASAN = Baris 11-21 sebagai program menghitung total harga barang berdasarkan harga barang dan jumlah pembelian 
+![Screenshot 2024-10-01 101406](https://github.com/user-attachments/assets/74f88362-7634-4c3a-ad1b-d89106639e9c)
 
-#Mengitung total harga barang
-total_harga = harga * jumlah
+PENJELASAN = Baris 23-29 sebagai program menghitung diskon. Jika lebih dari Rp. 250.000, tambahkan diskon sebesar 25%. Sedangkan jika tidak mencapai lebih dari Rp.250.000, maka tidak mendapatkan diskon
+![Screenshot 2024-10-01 101416](https://github.com/user-attachments/assets/68059e11-8b8c-4f77-aca1-0e41530d6e3b)
 
-#Menampilkan hasil harga
-print(total_harga)
-PENJELASAN = Baris 27-33 menghitung diskon.  Jika lebih dari Rp. 250.000, tambahkan diskon sebesar 25%. Sedangkan jika tidak mencapai lebih dari Rp.250.000, maka tidak mendapatkan diskon
-#Menghitung diskon 25%, jika pembelian > 250.000
-if total_harga > 250000:
-    diskon = total_harga * 0.25
-    total_harga -= diskon
-    print("total harga barang: Rp." + str(total_harga)+ " (diskon 25%: Rp. "+ str(diskon)+")")
-else:
-    print("total harga barang: Rp." + str(total_harga))
-PENJELASAN = Baris 35-40 menanyakan apakah ingin menghitung ulang total harga pembelian kembari atau tidak
-#Menanyakan apakah ingin menghitung ulang
-while True:
-    pilihan = input("Apa ingin menghitung total harga pembelian kembali? (y/t): ")
-    if pilihan != 'y':
-        print("Terima kasih telah berbelanja di sini")
-        break
+PENJELASAN = Baris 31-36 sebagai program pilihan apakah ingin menghitung total harga lagi atau keluar dari program
+![Screenshot 2024-10-01 101423](https://github.com/user-attachments/assets/fa58ed74-746d-4b2b-913f-7156640c19d9)
 
+OUTPUT PADA TERMINAL
+![Screenshot 2024-10-01 101155](https://github.com/user-attachments/assets/c9b09284-a02e-42e6-9292-54f04bfa276e)
 
+KESELURUHAN CODE & SAAT DI RUN
+![Screenshot 2024-10-01 101143](https://github.com/user-attachments/assets/d10fc315-02c3-4426-bd11-bd7bd49171d9)
 
-![Screenshot 2024-10-01 061537](https://github.com/user-attachments/assets/fe04e78f-2095-428c-a7b3-d7eaf31a554a)
-
-
-![Screenshot 2024-10-01 061820](https://github.com/user-attachments/assets/1cf5f95b-af35-4f72-b579-002b7bc217cf)
-
-
-
-  
